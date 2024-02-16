@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science and Networking
 - 🌱 I’m currently learning Data Science
 - 📫 How to reach me kgasagoretang@gmail.com
-- ⚡ Fun fact: I love evwrything Tech
+- ⚡ Fun fact: I love everything Tech
 
 <!---
 KgasagoGH/KgasagoGH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
