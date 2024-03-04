@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mashoto Kgasago
-- 👀 I’m interested in Data Science and Networking
+- 👀 I’m interested in Data Science and Software Development
 - 🌱 I’m currently learning Data Science
 - 📫 How to reach me kgasagoretang@gmail.com
 - ⚡ Fun fact: I love everything Tech
